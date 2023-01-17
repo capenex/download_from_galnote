@@ -1,2 +1,2 @@
 # myFirstUploadedProject
-download pictures from http://galnote.com
+在一个色图网站上批量下载色图
